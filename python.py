@@ -12,12 +12,15 @@
 #     print("usted es mayor de edad")
 
 # calificar las personas segun su edad
+#----------------------------------------------------------------------------
 
-edad=int(input("ingrese su edad"))
+##Calificacion de edad
 
-if edad<12:
-    print("es un niño")
-elif edad<=12 and edad<17:
-    print("es adolescente")
-else:
-    print("es adulto")
+#edad=int(input("ingrese su edad"))
+#
+#if edad<12:
+#    print("es un niño")
+#elif edad<=12 and edad<17:
+#    print("es adolescente")
+#else:
+#    print("es adulto")
