@@ -28,13 +28,13 @@
 
 
 
-
-numero=int(input("ingrese un numero"))
-for i in range( numero + 1):
-    if i % 2 == 0:
-        print(f"{i} es par")
-    else:
-        print(f"{i} es impar")
+#
+#numero=int(input("ingrese un numero"))
+#for i in range( numero + 1):
+#    if i % 2 == 0:
+#        print(f"{i} es par")
+#    else:
+#        print(f"{i} es impar")
 
 
 
