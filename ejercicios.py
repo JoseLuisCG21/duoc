@@ -103,6 +103,20 @@
 
 import random
 
+meta=30
+turno=0
+dado=0
+j1=0
+j2=0
+
+while j1!=meta and j2!=meta:
+    if turno %2==0:
+        print("turno jugador 1")
+        dado = random.randint(1.6)
+        j1=j1+dado
+        print("el jugador saco", dado)
+        print("el jugador avanzo: ",j1)
+
 
 
 
