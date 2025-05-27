@@ -84,6 +84,4 @@ Subtotal por pagar: {total}
 Descuento por código: {des}
 TOTAL: {totaldes} ''')
 
-op=int(input('''¿Desea realizar otro pedido?, o ¿salir del programa?: 
-      1.- Seguir comprando
-      2.- Salir del programa '''))
+
