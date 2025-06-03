@@ -79,12 +79,68 @@
 
 
 
+# #rango de numero 0 a 100 evaluando errores
+
+# while True:
+#     try:
+#         numero = int(input("ingrese un numero entre 0 y 100"))
+#         if numero < 0 or numero > 100:
+#             print("Error fuera de rango")
+#         else:
+#             break
+
+#     except ValueError:
+#         print("Error solo se permite numeros enteros")
 
 
 
-rojos=int(input("Ingrese la cantidad de rojos"))
-taller=int(input("Cuantas veces asistio a talleres??"))
-decimas=0.3
+
+#Lista
+
+# productos = []
+
+# for i in range(5):
+#     nombreProducto = input("Ingrese el nombre del producto")
+#     productos.append(nombreProducto)
+
+# print(productos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
