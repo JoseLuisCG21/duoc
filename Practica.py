@@ -27,9 +27,9 @@
 
 
 
-# tieneMayus = False
-# tieneMinus = False
-# tieneNumero = False
+tieneMayus = False
+tieneMinus = False
+tieneNumero = False
 
 # #Se hace un recorrido en cada letra de la clave
 # for letra in clave:
@@ -60,7 +60,7 @@
 
 
 # Repaso de listas y diccionarios
-
+clave="jKu46"
 perros = [
         1:{"Nombre" : "Droopy",
             "Raza" : "Dog hount",
@@ -84,6 +84,7 @@ def valida_pass(clave):
     else:
         print("la clave está mal escrita")
         return False
+valida_pass(clave)
 
 def ingresa_perro(dict):
     nombre = input("Ingrese un Nombre: ")
